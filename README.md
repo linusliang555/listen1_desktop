@@ -14,7 +14,7 @@ Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你�
 
 [![imgur](http://i.imgur.com/Ae6ItmA.png)]()
 
-- 支持 Windows，Mac，Linux 平台
+- 支持 Linux 平台
 
 # 安装方式
 
@@ -34,20 +34,6 @@ Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你�
 
 ## 生成安装包
 
-全平台安装包
-
-    npm run dist
-
-Windows 安装包
-
-    npm run dist:win32
-    npm run dist:win64
-
-Mac 安装包
-
-    npm run dist:mac
-
 Linux 安装包
 
-    npm run dist:linux32
-    npm run dist:linux64
+    npm run build:linux
