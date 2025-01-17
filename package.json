@@ -36,8 +36,8 @@
     "category": "Audio"
   },
   "npmRebuild": false,
-  "electronVersion": "34.0.0",
-  "electronDist": "/usr/lib/electron34"
+  "electronVersion": "32.0.0",
+  "electronDist": "/usr/lib/electron32"
 },
   "devDependencies": {
     "electron-builder": "^23.0.3",
